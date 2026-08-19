@@ -23,5 +23,6 @@ python scrapping.py
 
 ## Aviso:
 
+* **Este scrapper solo ha sido probado en LINUX**
 * **Uso Ético:** Este proyecto fue creado con fines estrictamente educativos y de apoyo a la comunidad estudiantil para facilitar el análisis de datos académicos como remplazo de la API OFICIAL DE BUSCACURSOS. Si decides usar o modificar el script, te pedimos encarecidamente que **mantengas las pausas en el código (`time.sleep`)** y lo ejecutes en horarios de baja demanda. No satures la infraestructura de la universidad.
 * **Takedown Policy:** Este es un proyecto independiente y NO ES OFICIAL. En caso de existir cualquier requerimiento, queja o solicitud oficial por parte de la Dirección de Informática o cualquier otra entidad de la **Pontificia Universidad Católica de Chile (UC)** , este repositorio y todos los datos contenidos en él serán dados de baja y eliminados inmediatamente.
