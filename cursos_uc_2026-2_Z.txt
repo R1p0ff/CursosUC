@@ -1,0 +1,50 @@
+34776	FIZ1310	SI	NO	1	NO	Presencial	Introducción a la Física Médica	Sanchez Beatriz	San Joaquín	10	19	4	L-W:5	CLAS	N5
+26906	FIZ121L	SI	NO	1	NO	Presencial	Laboratorio de Mecánica Clásica I	Cisternas Marcelo	San Joaquín	0	48	13	J:5,6	LAB	SIN SALA
+21155	FIZ0511	NO	NO	8	NO	Presencial	Practica de Licenciatura	Por Fijar	San Joaquín	40	1	0	:	CLAS	SIN SALA
+35342	FIZ0511	NO	NO	15	NO	Presencial	Practica de Licenciatura	Por Fijar	San Joaquín	40	1	1	:	CLAS	SIN SALA
+34484	AGZ3431	SI	NO	1	NO	Presencial	Tesis II	Dirección Docente	San Joaquín	35	15	15	:	CLAS	SIN SALA
+31183	AGZ3429	SI	NO	1	NO	Presencial	Diseño de Proyectos	Escobar Sebastián	,	Abarca Romina	San Joaquín	10	20	15	M:3,4	CLAS	SIN SALA
+21836	FIZ0212	SI	NO	1	NO	Presencial	Termodinámica y Teoría Cinética	Garcia Griselda	San Joaquín	10	17	7	L-W:5	CLAS	FT-102	M:4	AYU	N15
+28532	FIZ0511	NO	NO	12	NO	Presencial	Practica de Licenciatura	Por Fijar	San Joaquín	40	1	0	:	CLAS
+31717	AGZ358	SI	NO	1	NO	Presencial	Producción de Salmonideos	Escobar Sebastián	San Joaquín	10	30	17	W:5,6,7	CLAS	FT-104
+30479	FIZ121	SI	NO	1	NO	Presencial	Mecánica Clásica I	Garay Francisca	San Joaquín	10	60	22	L-W:1	AYU	B12	M-J:2	CLAS	C201
+18703	FIZ0312	SI	NO	1	NO	Presencial	Ondas y Optica	Maldonado Melissa	San Joaquín	10	31	10	L-W:2	CLAS	N12	V:3	AYU	FT-101
+28531	FIZ0511	NO	NO	11	NO	Presencial	Practica de Licenciatura	Por Fijar	San Joaquín	40	1	0	:	CLAS
+16018	FIZ010C	SI	NO	1	NO	Presencial	Fisica I	Cabrera Alejandro	San Joaquín	10	55	6	L-W:4	CLAS	K302	J:3,4	AYU	AP201
+11008	AGZ355	SI	NO	1	NO	Presencial	Produccion de Leche	Oses Jorge	,	Lembeye Felipe	San Joaquín	10	30	22	V:1,2,3,4	CLAS	SIN SALA
+23153	FIZ0314	SI	NO	1	NO	Presencial	Física Moderna	Goyeneche Dardo	San Joaquín	10	17	3	M-J:3	CLAS	N4	J:5	AYU	NT203
+15990	FIZ0223	SI	NO	1	NO	Presencial	Metodos de la Fisica Matematica I	Morales Luis	San Joaquín	10	82	4	L-W:3	CLAS	N18	V:3	AYU	N13-A
+31714	AGZ321	SI	NO	1	NO	Presencial	Tecnología de Productos Pecuarios	Abarca Romina	San Joaquín	10	30	17	L-W:2	CLAS	AG6	W:4,5,6	AYU	AG7
+24748	FIZ0614	SI	NO	1	SI	Presencial	Física Experimental Avanzada	Vogel German	San Joaquín	10	30	3	V:5,6,7	LAB	SIN SALA
+15985	FIZ0211	SI	NO	1	NO	Presencial	Termodinámica y Teoría Cinética	Garcia Griselda	San Joaquín	10	11	6	L-W:5	CLAS	FT-102	M:4	AYU	N15
+15989	FIZ0222	SI	NO	1	NO	Presencial	Mecanica Clasica II	Arevalo Edward	San Joaquín	10	119	81	L-W:1	CLAS	AE002	J:6	AYU	AE201
+28530	FIZ0511	NO	NO	10	NO	Presencial	Practica de Licenciatura	Por Fijar	San Joaquín	40	1	0	:	CLAS
+16015	FIZ0511	NO	NO	4	NO	Presencial	Practica de Licenciatura	Por Fijar	San Joaquín	40	1	0	:	CLAS	SIN SALA
+33392	AGZ308	SI	NO	1	NO	Presencial	Reproducción Animal	Reveco María	,	Gajardo Gonzalo	,	Peralta Oscar	San Joaquín	10	25	24	M:5,6	CLAS	K204	J:5,6,7	AYU	AG7
+33079	AGZ304	SI	NO	1	NO	Presencial	Genetica Animal	Lembeye Felipe	San Joaquín	10	20	18	J:2,3,4	CLAS	SIN SALA
+21639	FIZ0315	SI	NO	1	NO	Presencial	Ondas y Óptica	Maldonado Melissa	San Joaquín	10	27	10	L-W:2	CLAS	N12	V:3	AYU	FT-101
+21159	FIZ0511	NO	NO	9	NO	Presencial	Practica de Licenciatura	Por Fijar	San Joaquín	40	1	0	:	CLAS	SIN SALA
+20341	AGZ322	SI	NO	1	NO	Presencial	Sistemas Ganaderos y Acuícolas	Lembeye Felipe	San Joaquín	10	30	18	M:2	TER	SIN SALA	M:3,4	CLAS	AG7
+31180	AGZ3412	SI	NO	1	NO	Presencial	Nutricion Avanzada	Mora Robert	San Joaquín	10	25	21	M:5,6,7	CLAS	SIN SALA
+31194	AGZ3433	SI	NO	1	NO	Presencial	Perfil Metabólico en Rumiantes	Mora Robert	San Joaquín	5	25	24	M:1,2	CLAS	SIN SALA
+35336	FIZ0511	NO	NO	14	NO	Presencial	Practica de Licenciatura	Por Fijar	San Joaquín	40	1	0	:	CLAS	SIN SALA
+15981	FIZ0112	SI	NO	1	NO	Presencial	Introducción a la Física	Maldonado Melissa	San Joaquín	10	59	41	M-J:3	CLAS	N15	V:1	AYU	FT-101
+35320	FIZ0511	NO	NO	13	NO	Presencial	Practica de Licenciatura	Por Fijar	San Joaquín	40	1	0	:	CLAS
+16014	FIZ0511	NO	NO	3	NO	Presencial	Practica de Licenciatura	Por Fijar	San Joaquín	40	1	0	:	CLAS	SIN SALA
+21153	FIZ0511	NO	NO	7	NO	Presencial	Practica de Licenciatura	Por Fijar	San Joaquín	40	1	0	:	CLAS	SIN SALA
+26899	FIZ010L	SI	NO	1	NO	Presencial	Laboratorio de Física I	Morales Luis	San Joaquín	0	56	10	V:5	LAB	SIN SALA	:	LAB	SIN SALA
+31542	AGZ3430	SI	NO	1	NO	Presencial	Tesis I	Abarca Romina	,	Dirección Docente	San Joaquín	10	15	13	:	CLAS	SIN SALA
+15987	FIZ0221	SI	NO	1	NO	Presencial	Electricidad y Magnetismo	Benguria Rafael	San Joaquín	10	39	17	L-W:5	CLAS	AP203	M-J:5	AYU	N15
+16001	FIZ0322	SI	NO	1	NO	Presencial	Fisica Cuantica I	Soto Rodrigo	San Joaquín	10	191	109	L-W:1	CLAS	A1	V:1	AYU	A3
+16016	FIZ0511	NO	NO	5	NO	Presencial	Practica de Licenciatura	Por Fijar	San Joaquín	40	1	0	:	CLAS	SIN SALA
+16013	FIZ0511	NO	NO	2	NO	Presencial	Practica de Licenciatura	Por Fijar	San Joaquín	40	1	0	:	CLAS
+16000	FIZ0321	SI	NO	1	NO	Presencial	Teoria Electromagnetica	Faraggi Alberto	San Joaquín	10	113	2	L-W:3	CLAS	B23	J:5	AYU	NT201
+16011	FIZ0511	NO	NO	1	NO	Presencial	Practica de Licenciatura	Por Fijar	San Joaquín	40	1	0	:	CLAS
+15991	FIZ0311	SI	NO	1	NO	Presencial	Fisica Moderna	Goyeneche Dardo	San Joaquín	10	51	32	M-J:3	CLAS	N4	J:5	AYU	NT203
+33192	AGZ353	SI	NO	1	NO	Presencial	Produccion Intensiva de Cerdos y Aves	Cassus Gastón	San Joaquín	10	20	10	W:1,2,3	CLAS	ED214
+31718	AGZ357	SI	NO	1	NO	Presencial	Produccion de Carne	Castellaro Giorgio	San Joaquín	10	30	24	L:2,3,4	CLAS	AG7
+33518	AGZ3432	SI	NO	1	NO	Presencial	Actividad Final Integradora	Dirección Docente	San Joaquín	25	15	15	:	CLAS	SIN SALA
+16485	FIZ0511	NO	NO	6	NO	Presencial	Practica de Licenciatura	Por Fijar	San Joaquín	40	1	0	:	CLAS	SIN SALA
+24742	FIZ0613	SI	NO	1	NO	Presencial	Física Experimental III	Gonzalez Claudio	San Joaquín	10	41	14	M:5	CLAS	NT201	V:2,3	LAB	SIN SALA
+21769	FIZ0224	SI	NO	1	NO	Presencial	Electricidad y Magnetismo	Benguria Rafael	San Joaquín	10	35	12	L-W:5	CLAS	AP203	M-J:5	AYU	N15
+33193	AGZ303	SI	NO	1	NO	Presencial	Producción de Rumiantes	Larrain Rafael	,	Chávez Gabriela	,	Lembeye Felipe	,	Mora Robert	San Joaquín	10	25	16	L:5,6,7	CLAS	C203	L:8	TER	SIN SALA
