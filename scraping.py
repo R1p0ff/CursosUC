@@ -48,14 +48,14 @@ def explorar_sigla(prefijo, cursos_set):
             
         print(f"[{prefijo}] Encontrados: {cantidad} | Acumulados en esta letra: {len(cursos_set)}")
         
-        if cantidad == 50:
+        if cantidad >= 500:
             largo = len(prefijo)
             if largo < 3:
                 print(f"    -> [!] Límite para '{prefijo}'. Expandiendo con letras...")
                 for char in letters:
                     time.sleep(1)
                     explorar_sigla(prefijo + char, cursos_set)
-            elif 3 <= largo < 6:
+            elif 3 <= largo < 8:
                 print(f"    -> [!] Límite para '{prefijo}'. Expandiendo con números...")
                 for num in numbers:
                     time.sleep(1)
